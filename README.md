@@ -1,2 +1,2 @@
 # Railway-Station-Weather-App
-# Made with vanilla javascript, html and css
+Made with vanilla javascript, html and css, and weather api
